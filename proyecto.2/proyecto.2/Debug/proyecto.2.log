@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: El directorio intermedio (Debug\) contiene archivos compartidos de otro proyecto (proyecto.2.vcxproj). Esto puede dar lugar a un comportamiento incorrecto de limpieza y recompilación.
+  proyecto.2.cpp
+C:\Users\HP\Desktop\proyecto d.i\proyecto.2\proyecto.2\proyecto.2.cpp(129,13): warning C4326: el tipo de valor devuelto de 'main' debe ser 'int' en lugar de 'void'
+  proyecto.2.vcxproj -> C:\Users\HP\Desktop\proyecto d.i\proyecto.2\Debug\proyecto d.i.exe
